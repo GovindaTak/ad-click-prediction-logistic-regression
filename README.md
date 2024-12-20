@@ -2,7 +2,7 @@
 This repository contains the Ad Click Prediction project, which uses logistic regression to predict whether an internet user will click on an advertisement. The dataset comprises various user attributes, such as daily internet usage, area income, age, and whether the user is male, among other factors.
 ---------------------
 # Ad Click Prediction Using Logistic Regression
-----------
+------------
 ## Project Overview
 This project utilizes logistic regression to predict whether a specific internet user will click on an advertisement. The model is trained on a synthetic dataset containing user attributes and ad interaction outcomes.
 
